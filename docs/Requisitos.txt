@@ -1,0 +1,14 @@
+Efetuar cadastro: cadastrar conta (login e senha) de um novo usuário; o login deve ser único (não pode ser repetido entre usuários) 
+
+Efetuar login: entrar no sistema a partir de um login e senha cadastrados no banco de dados.
+
+Adicionar tarefa: permita que os usuários adicionem novas tarefas com uma descrição, data de vencimento e status.
+
+Lista de tarefas: exibe uma lista de tarefas com suas descrições, datas de vencimento e status (concluídas ou não concluídas).
+
+Editar tarefa: permitir que os usuários editem tarefas existentes.
+
+Excluir tarefa: permitir que os usuários excluam tarefas.
+
+Marcar como concluída: permite que os usuários marquem tarefas como concluídas.
+
